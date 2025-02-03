@@ -24,7 +24,7 @@ export default function Hero() {
         </div>
         <div className="md:w-1/2 flex justify-end">
           <Image
-            src="https://picsum.photos/800/800"
+            src="/run.png"
             alt="HealthLeh App Screenshot"
             width={400}
             height={400}
